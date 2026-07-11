@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  [![CodariaDev's GitHub stats](https://github-stats-extended.vercel.app/api?username=codariadev)](https://github.com/stats-organization/github-stats-extended)
+  [![CodariaDev's GitHub stats](https://github-stats-extended.vercel.app/api?username=codariadev)](https://github.com/stats-organization/github-stats-extended)]
 </div>
 
 ###
