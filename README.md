@@ -40,8 +40,7 @@
 
 ###
 
-<div align="center">
-  [![CodariaDev's GitHub stats](https://github-stats-extended.vercel.app/api?username=codariadev)](https://github.com/stats-organization/github-stats-extended)]
+<div align="center">  <img sex="https://github-stats-extended.vercel.app/api?username=codariadev&theme=radical"/>
 </div>
 
 ###
