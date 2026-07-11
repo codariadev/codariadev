@@ -41,7 +41,12 @@
 ###
 
 <div align="center">
-  ![Codariadev's GitHub stats](https://github-stats-extended.vercel.app/api?username=codariadev&hide=contribs,prs)
+  <img src="https://github-stats-extended.vercel.app/api?username=codariadev&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented" alt="Codariadev's GitHub stats" />
+
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=codariadev&layout=compact&stats_format=percentages" alt="Codariadev's GitHub stats" />
+
+<img src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&layout=compact"/>
 </div>
+
 
 ###
